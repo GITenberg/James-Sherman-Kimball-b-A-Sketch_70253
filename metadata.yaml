@@ -1,11 +1,16 @@
 _repo: James-Sherman-Kimball-b-A-Sketch_70253
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70253-h/images/cover.jpg
 creator:
   author:
     agent_name: Kimball, James William
     gutenberg_agent_id: '55670'
     url: http://www.gutenberg.org/2009/agents/55670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70253#James-Sherman-Kimball-b-A-Sketch
 gutenberg_issued: '2023-03-09'
 identifiers:
   gutenberg: '70253'
